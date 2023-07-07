@@ -126,18 +126,23 @@ Q12)  Below are the scores obtained by a student in tests
 ![image](https://github.com/prashantsagar38/Basic-Statistics-Level-1/assets/75689051/2c1d0df1-3162-4af5-bb62-fd310d6e4e1a)
 
 Q13) What is the nature of skewness when mean, median of data are equal?
+
 The skewness is zero when mean and median of data is equal.
 
 Q14) What is the nature of skewness when mean > median ?
+
 When the value of mean is greater than median and mode then it is called positive skewed.
 
 Q15) What is the nature of skewness when median > mean?
+
 When the value of mean is less than median and mode then it is called negative skewed.
 
 Q16) What does positive kurtosis value indicates for a data ?
+
 Positive values of kurtosis indicate that distribution is peaked and possesses thick tails. An extreme positive kurtosis indicates a distribution where more of the numbers are located in the tails of the distribution instead of around the mean.
 
 Q17) What does negative kurtosis value indicates for a data?
+
 A distribution with a negative kurtosis value indicates that the distribution has lighter tails than the normal distribution.
 
 Q18) Answer the below questions using the below boxplot visualization.
@@ -145,13 +150,19 @@ Q18) Answer the below questions using the below boxplot visualization.
 ![image](https://github.com/prashantsagar38/Basic-Statistics-Level-1/assets/75689051/e078b4ad-532e-4f98-9674-47abbac73deb)
 
 Q. What can we say about the distribution of the data?
+
 A. It is not normally distributed because median is towards the higher value
+
 Q. What is nature of skewness of the data?
+
 A. The data is a skewed towards left. The whisker range of minimum value is greater than maximum.
+
 Q. What will be the IQR of the data (approximately)?
+
 A. 18 – 10 = 8 (IQR = Q3 Upper quartile – Q1 Lower Quartile)
 
 Q19) Comment on the below Boxplot visualizations?
+
 ![image](https://github.com/prashantsagar38/Basic-Statistics-Level-1/assets/75689051/0a184f1e-2df5-4255-a606-e0a4714999b3)
 
 Draw an Inference from the distribution of data for Boxplot 1 with respect Boxplot 2.
