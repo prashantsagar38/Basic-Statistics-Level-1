@@ -3,15 +3,22 @@
 Q3) Three Coins are tossed, find the probability that two heads and one tail are obtained?
 
 **Solution:** HHH, TTT, HHT, TTH, HTT, THH, HTH, THT
+
 There will be 3 out of 8 probability that two heads and one tail can be obtained.
 
 Q4) Two Dice are rolled, find the probability that sum is:
+
+**Solution:**
+
 a)	Equal to 1 – 0 probability
 b)	Less than or equal to 4 – 1/12
 c)	Sum is divisible by 2 and 3 – 1/6
 
 Q5) A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?
-**Solution:** 10/21
+
+**Solution:** 
+
+10/21
 
 Q6) Calculate the Expected number of candies for a randomly selected child
 Below are the probabilities of count of candies for children (ignoring the nature of the child-Generalized view)
@@ -25,6 +32,7 @@ E	         6	         0.01
 F	         2	         0.120
 
 **Solution:** 
+
 Child A – probability of having 1 candy = 0.015.
 Child B – probability of having 4 candies = 0.20
 Expected number of candies for a randomly selected child = 1 * 0.015 + 4*0.20 + 3*0.65 + 5*0.005 + 6 *0.01 + 2 * 0.12 = 0.015 + 0.8 + 1.95 + 0.025 + 0.06 + 0.24 = 3.090
