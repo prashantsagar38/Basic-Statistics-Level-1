@@ -42,7 +42,8 @@ Q7) Calculate Mean, Median, Mode, Variance, Standard Deviation, Range &     comm
 Find Mean, Median, Mode, Variance, Standard Deviation, and Range and also Comment about the values/ Draw some inferences.
 
 **Solution:**
- 	Mean
+ 	
+  Mean
  	![image](https://github.com/prashantsagar38/Basic-Statistics-Level-1/assets/75689051/0a6cc6e3-72c0-4f75-b468-42eb8ecf317c)
 
   Median
@@ -63,10 +64,12 @@ a)	The weights (X) of patients at a clinic (in pounds), are
 Assume one of the patients is chosen at random. What is the Expected Value of the Weight of that patient?
 
 **Solution:** 
+
 A. Expected Value = ∑ (probability * Value) = ∑ P(x). E(x) There are 9 patients, Probability of selecting each patient = 1/9 Ex: 108, 110, 123, 134, 135, 145, 167, 187, 199 P(x): 1/9 1/9 1/9 1/9 1/9 1/9 1/9 1/9 1/9 Expected Value = (1/9)*108 + (1/9)*110 + (1/9)*123 + (1/9)*134 + (1/9)*135 + (1/9)*145 + (1/9)*167 + (1/9)*187 + (1/9)199 = (1/9) (108 + 110 + 123 + 134 + 135 + 145 + 167 + 187 + 199) = (1/9)(1308) = 145.33 Expected Value of the Weight of that patient = 145.33
 
 Q9) Calculate Skewness, Kurtosis & draw inferences on the following data
       Cars speed and distance
+
 **Solution:**
 
 Skewness
@@ -137,7 +140,9 @@ Q17) What does negative kurtosis value indicates for a data?
 A distribution with a negative kurtosis value indicates that the distribution has lighter tails than the normal distribution.
 
 Q18) Answer the below questions using the below boxplot visualization.
+
 ![image](https://github.com/prashantsagar38/Basic-Statistics-Level-1/assets/75689051/e078b4ad-532e-4f98-9674-47abbac73deb)
+
 Q. What can we say about the distribution of the data?
 A. It is not normally distributed because median is towards the higher value
 Q. What is nature of skewness of the data?
