@@ -86,6 +86,7 @@ SP and Weight(WT)
 ![image](https://github.com/prashantsagar38/Basic-Statistics-Level-1/assets/75689051/f77e047f-f9ee-4d1e-b400-84909401f5de)
 
 Q10) Draw inferences about the following boxplot & histogram
+
 ![image](https://github.com/prashantsagar38/Basic-Statistics-Level-1/assets/75689051/3ce92c2e-e9c8-4a76-8ad0-1e1521f0f3d4)
 
 ![image](https://github.com/prashantsagar38/Basic-Statistics-Level-1/assets/75689051/a3c152f7-04b8-4445-bf05-23a180e03535)
