@@ -2,7 +2,7 @@
 Q1) Identify the Data type for the Following:
 | Activity    | Data Type |
 | --------- | ------- |
-| first     |         |
+| Number of beatings from Wife    | Discrete data |
 |           |         |
 |           |         |
 |           |         |
