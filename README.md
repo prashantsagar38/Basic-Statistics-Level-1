@@ -1,6 +1,7 @@
 # Basic-Statistics-Level-1
 Q1) Identify the Data type for the Following:
     |Activity Data| Type|
+    |-------------|-----|
     |Number of beatings from Wife| Discrete data|
     |Results of rolling a dice| Discrete data|
     |Weight of a person| Continuous data|
