@@ -1,6 +1,6 @@
 # Basic-Statistics-Level-1
 Q1) Identify the Data type for the Following:
-| Header    | Heading |
+| Activity    | Data Type |
 | --------- | ------- |
 | first     |         |
 |           |         |
