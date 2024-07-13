@@ -51,9 +51,25 @@ Q4) Two Dice are rolled, find the probability that sum is:
 
 **Solution:**
 
-a)	Equal to 1 – 0 probability
-b)	Less than or equal to 4 – 1/12
-c)	Sum is divisible by 2 and 3 – 1/6
+{(1,1)(1,2)(1,3)(1,4)(1,5),(1,6)
+ (2,1)(2,2)(2,3)(2,4)(2,5)(2,6)
+ (3,1)(3,2)(3,3)(3,4)(3,5)(3,6)
+ (4,1)(4,2)(4,3)(4,4)(4,5)(4,6)
+ (5,1)(5,2)(5,3)(5,4)(5,5)(5,6)
+ (6,1)(6,2)(6,3)(6,4)(6,5)(6,6)}
+
+Let E1 be the event of probability of getting sum of equal to 1 is P(E1)=n(E1)/n(s) = 0/36
+P(E1) = 0
+
+Let E2 be the event of getting less than equal to 4
+ S = {(1,1),(1,2),(1,3),(2,1),(2,2),(3,1)}
+P(E2) = 6/36
+P(E2) = 1/6
+
+Let E3 be the event of getting sum is divisible by 2 and 3
+{(1,5),(2,4),(3,3),(4,2),(5,1),(6,1)}
+6/36
+1/6
 
 Q5) A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?
 
