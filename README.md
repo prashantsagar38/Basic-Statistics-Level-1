@@ -1,18 +1,18 @@
 # Basic-Statistics-Level-1
 Q1) Identify the Data type for the Following:
-Activity Data Type
-Number of beatings from Wife Discrete data
-Results of rolling a dice Discrete data
-Weight of a person Continuous data
-Weight of Gold Continuous data
-Distance between two places Continuous data
-Length of a leaf Continuous data
-Dog&#39;s weight Continuous data
-Blue Color Discrete data
-Number of kids Discrete data
-Number of tickets in Indian railways Discrete data
-Number of times married Discrete data
-Gender (Male or Female) Discrete data
+    Activity Data Type
+    Number of beatings from Wife Discrete data
+    Results of rolling a dice Discrete data
+    Weight of a person Continuous data
+    Weight of Gold Continuous data
+    Distance between two places Continuous data
+    Length of a leaf Continuous data
+    Dog&#39;s weight Continuous data
+    Blue Color Discrete data
+    Number of kids Discrete data
+    Number of tickets in Indian railways Discrete data
+    Number of times married Discrete data
+    Gender (Male or Female) Discrete data
 
 Q3) Three Coins are tossed, find the probability that two heads and one tail are obtained?
 
