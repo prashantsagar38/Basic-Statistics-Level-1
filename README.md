@@ -2,8 +2,8 @@
 Q1) Identify the Data type for the Following:
 | Activity    | Data Type |
 | --------- | ------- |
-| Number of beatings from Wife    | Discrete data |
-|           |         |
+| Number of beatings from Wife | Discrete data |
+| Results of rolling a dice | Discrete data |
 |           |         |
 |           |         |
 |           |         |
