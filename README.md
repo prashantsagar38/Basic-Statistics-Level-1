@@ -66,12 +66,12 @@ Below are the probabilities of count of candies for children (ignoring the natur
 
 | CHILD |	Candiescount |	Probability |
 | ------ | ----------- | ------------|
-A	         1	         0.015
-B	         4	         0.20
-C	         3	         0.65
-D	         5	         0.005
-E	         6	         0.01
-F	         2	         0.120
+| A	| 1 | 0.015 |
+| B | 4 | 0.20 |
+| C | 3 | 0.65 |
+| D | 5 | 0.005 |
+| E	| 6	| 0.01 |
+| F |	2	| 0.120 |
 
 **Solution:** 
 
