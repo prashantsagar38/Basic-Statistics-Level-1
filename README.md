@@ -64,7 +64,8 @@ Q5) A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at rando
 Q6) Calculate the Expected number of candies for a randomly selected child
 Below are the probabilities of count of candies for children (ignoring the nature of the child-Generalized view)
 
-CHILD	Candiescount	Probability
+| CHILD |	Candiescount |	Probability |
+| ------ | ----------- | ------------|
 A	         1	         0.015
 B	         4	         0.20
 C	         3	         0.65
