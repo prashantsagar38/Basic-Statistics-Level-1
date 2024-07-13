@@ -15,6 +15,32 @@ Q1) Identify the Data type for the Following:
 | Number of times married | Discrete data |
 | Gender (Male or Female) | Discrete data |
 
+Q2) Identify the Data types, which were among the following
+Nominal, Ordinal, Interval, Ratio.
+
+| Data    | Data Type |
+| --------- | ------- |
+| Gender | Nominal |
+| High School Class Ranking | Nominal |
+| Celsius Temperature | Interval |
+| Weight | Ratio |
+| Hair Color | Ratio |
+| Socioeconomic Status | Interval |
+| Fahrenheit Temperature | Ratio |
+| Height | Ratio |
+| Type of living accommodation | Ordinal |
+| Level of Agreement | Interval |
+| IQ(Intelligence Scale) | Interval |
+| Sales Figures | Interval |
+| Blood Group | Ratio |
+| Time Of Day | Interval |
+| Time on a Clock with Hands | Interval |
+| Number of Children | Interval |
+| Religious Preference | Ratio |
+| Barometer Pressure | Interval |
+| SAT Scores | Ratio |
+| Years of Education | Nominal |
+
 Q3) Three Coins are tossed, find the probability that two heads and one tail are obtained?
 
 **Solution:** HHH, TTT, HHT, TTH, HTT, THH, HTH, THT
